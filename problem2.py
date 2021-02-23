@@ -20,3 +20,4 @@ if (side_1 + side_2 > side_3) and (side_1 + side_3 > side_2) and (side_2 + side_
 
 else:
   print("The figure is NOT a triangle")
+  
